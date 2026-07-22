@@ -164,7 +164,7 @@ function App() {
         <div className="card">
           <p style={{ marginBottom: '8px' }}><strong>Phone:</strong> 9994098295</p>
           <p style={{ marginBottom: '8px' }}><strong>Email:</strong> suryaesec001@gmail.com</p>
-          <p><strong>LinkedIn:</strong> <a href="linkedin.com/in/surya-s-33039828a" target="_blank" rel="noreferrer" style={{ color: '#3b82f6', textDecoration: 'none' }}>linkedin.com/in/surya-s-33039828a</a></p>
+          <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/surya-s-33039828a/" target="_blank" rel="noreferrer" style={{ color: '#3b82f6', textDecoration: 'none' }}>https://www.linkedin.com/in/surya-s-33039828a/</a></p>
         </div>
       </section>
 
