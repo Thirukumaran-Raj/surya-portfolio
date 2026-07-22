@@ -88,6 +88,24 @@ function App() {
             design principles.
           </p>
         </div>
+        
+        <div className="card">
+          <h3>Loot Fast</h3>
+          <p style={{ margin: "5px 0 10px" }}>
+            <a 
+              href="https://www.figma.com/design/SXPJ5LRx5gU1nm4aH9btfg/Untitled?node-id=0-1&t=Oc77yxxX5RRjVPaH-1" 
+              target="_blank" 
+              rel="noreferrer"
+              style={{ color: '#3b82f6', textDecoration: 'none', fontWeight: '600' }}
+            >
+              View Project
+            </a>
+          </p>
+          <p>
+            Designed an e-commerce platform for purchasing electronic wires and accessories with product listings,
+            shopping cart functionality, and secure checkout.
+          </p>
+        </div>
 
         <div className="card">
           <h3>Food Delivery App</h3>
@@ -146,7 +164,7 @@ function App() {
         <div className="card">
           <p style={{ marginBottom: '8px' }}><strong>Phone:</strong> 9994098295</p>
           <p style={{ marginBottom: '8px' }}><strong>Email:</strong> suryaesec001@gmail.com</p>
-          <p><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/surya-s-33039828" target="_blank" rel="noreferrer" style={{ color: '#3b82f6', textDecoration: 'none' }}>linkedin.com/in/surya-s-33039828a</a></p>
+          <p><strong>LinkedIn:</strong> <a href="linkedin.com/in/surya-s-33039828a" target="_blank" rel="noreferrer" style={{ color: '#3b82f6', textDecoration: 'none' }}>linkedin.com/in/surya-s-33039828a</a></p>
         </div>
       </section>
 
