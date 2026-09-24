@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1000">
+  <defs>
+    <linearGradient id="sunset" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f0d76d"/>
+      <stop offset="100%" stop-color="#dba93c"/>
+    </linearGradient>
+    <radialGradient id="bowlGlow" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#ffdd7d"/>
+      <stop offset="35%" stop-color="#ffbb5b"/>
+      <stop offset="70%" stop-color="#f4742d"/>
+      <stop offset="100%" stop-color="#d85d1f"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="1000" fill="url(#sunset)"/>
+  <g opacity="0.18">
+    <path d="M0 300 L900 300" stroke="#fff" stroke-width="2"/>
+    <path d="M0 600 L900 600" stroke="#fff" stroke-width="2"/>
+    <path d="M0 900 L900 900" stroke="#fff" stroke-width="2"/>
+  </g>
+  <g>
+    <text x="120" y="110" font-family="Georgia, serif" font-size="72" fill="#3b2a1a" font-style="italic">Arumai Biriyani</text>
+    <g transform="translate(720 70)">
+      <circle cx="20" cy="20" r="18" fill="#f7d32c"/>
+      <path d="M0 24 L40 24" stroke="#7d4920" stroke-width="10" stroke-linecap="round"/>
+      <path d="M20 0 L20 40" stroke="#7d4920" stroke-width="8" stroke-linecap="round"/>
+      <path d="M15 15 L25 15" stroke="#7d4920" stroke-width="4"/>
+    </g>
+    <text x="700" y="165" font-size="28" fill="#563314" font-family="Verdana">LOGO NAME</text>
+  </g>
+  <g>
+    <text x="150" y="220" font-family="Verdana, sans-serif" font-size="54" fill="#4a2b1b" font-weight="700">Supper Delicious</text>
+    <text x="120" y="360" font-family="Verdana, sans-serif" font-size="150" fill="#2a1d18" font-weight="900">BIRYANI</text>
+    <rect x="260" y="410" width="390" height="65" rx="25" fill="#f8f3e5"/>
+    <text x="310" y="455" font-family="Georgia, serif" font-size="38" fill="#874f2a" font-style="italic">limited time offer</text>
+  </g>
+  <g>
+    <g transform="translate(60 490)">
+      <circle cx="290" cy="235" r="240" fill="#f8f3ef"/>
+      <circle cx="290" cy="235" r="200" fill="url(#bowlGlow)"/>
+      <circle cx="290" cy="235" r="180" fill="#f39b42" opacity="0.8"/>
+      <circle cx="290" cy="235" r="150" fill="#fd9f4a" opacity="0.85"/>
+      <g fill="#74b640">
+        <circle cx="220" cy="200" r="18"/>
+        <circle cx="260" cy="240" r="16"/>
+        <circle cx="340" cy="210" r="18"/>
+        <circle cx="380" cy="260" r="15"/>
+        <circle cx="235" cy="280" r="15"/>
+      </g>
+      <g fill="#f3d34a">
+        <circle cx="200" cy="158" r="18"/>
+        <circle cx="310" cy="145" r="20"/>
+        <circle cx="370" cy="190" r="16"/>
+      </g>
+      <g fill="#d9e7e0">
+        <circle cx="150" cy="295" r="30"/>
+        <circle cx="235" cy="315" r="26"/>
+        <circle cx="355" cy="300" r="28"/>
+      </g>
+    </g>
+    <g transform="translate(550 500)">
+      <path d="M0 0 C35 -20 60 -20 90 0 C120 20 150 20 175 0 L175 120 C150 145 110 165 90 165 C60 165 25 145 0 120 Z" fill="#5a2f1d" opacity="0.75"/>
+      <text x="45" y="40" font-family="Verdana, sans-serif" font-size="60" font-weight="800" fill="#f8f3e5">45%</text>
+      <text x="30" y="80" font-family="Verdana, sans-serif" font-size="36" fill="#f8f3e5">OFF</text>
+    </g>
+  </g>
+  <g>
+    <text x="70" y="760" font-family="Verdana, sans-serif" font-size="64" fill="#4a2b1b" font-weight="800">COMBO 1</text>
+    <g transform="translate(320 730)">
+      <circle cx="80" cy="80" r="85" fill="#f5d948"/>
+      <text x="28" y="110" font-family="Verdana, sans-serif" font-size="74" font-weight="800" fill="#3b2a1a">249</text>
+    </g>
+    <text x="540" y="800" font-family="Verdana, sans-serif" font-size="64" fill="#4a2b1b" font-weight="800">COMBO 2</text>
+    <g transform="translate(530 740)">
+      <circle cx="100" cy="80" r="85" fill="#f5d948"/>
+      <text x="10" y="115" font-family="Verdana, sans-serif" font-size="74" font-weight="800" fill="#3b2a1a">399</text>
+    </g>
+  </g>
+  <g>
+    <text x="510" y="915" font-family="Verdana, sans-serif" font-size="46" fill="#3b2a1a" font-weight="700">chicken biryani+chicken</text>
+    <text x="520" y="965" font-family="Verdana, sans-serif" font-size="38" fill="#3b2a1a" font-weight="700">65+chicken gravy</text>
+  </g>
+  <g>
+    <text x="60" y="910" font-family="Verdana, sans-serif" font-size="38" fill="#3b2a1a" font-weight="700">chicken biryani+chicken</text>
+    <text x="120" y="960" font-family="Verdana, sans-serif" font-size="38" fill="#3b2a1a" font-weight="700">65+coke</text>
+  </g>
+</svg>
